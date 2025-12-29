@@ -1,0 +1,29 @@
+## Getting Started
+### Welcome
+Welcome to the Learning Management System.
+
+This module introduces the basics of navigating the app and using text-to-speech.
+### Navigation Tips
+Use the module list to switch topics.
+
+Press Next and Previous to move page by page.
+
+## Python Basics
+### Variables
+Variables store data values.
+
+Example:
+name = "Taylor"
+### Control Flow
+Use if/else statements to branch logic.
+
+Example:
+if score >= 80:
+    print("Great job!")
+### Functions
+Functions help you reuse code.
+
+Example:
+
+def greet(user):
+    return f"Hello, {user}!"
